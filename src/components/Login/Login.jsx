@@ -23,6 +23,9 @@ const LoginForm = () => {
       <div className='text-blue-400 text-[5rem]'>
         <h1> Hello </h1>
       </div>
+      <div className='text-blue-400 text-[5rem]'>
+        <h1> Hello </h1>
+      </div>
 </div>
 
     // <div className="flex justify-center items-center  bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 mt-28 w-96 shadow-2xl">
